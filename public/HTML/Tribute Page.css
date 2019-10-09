@@ -1,0 +1,11 @@
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+  }
+
+#main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
